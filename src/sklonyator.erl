@@ -1,5 +1,5 @@
 -module(sklonyator).
--author("Loguntsov").
+-author("Sergey Loguntsov <loguntsov@gmail.com>").
 
 %% API
 -export([plural/2]).
